@@ -41,19 +41,18 @@ html {
 
 .main {
 
-
-    background: #3CDBC0;
-    flex: 1 0;
     width: 100vh;
     height: 80vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
     text-align: center;
+    background: #3CDBC0;
 }
 
 .span {
     font-family: 'Rubik', sans-serif;
+    font-weight: bold;
     font-size: 30px;
     color: #FFFFFF;
 }
